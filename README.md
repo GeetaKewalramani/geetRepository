@@ -1,2 +1,4 @@
 # geetRepository
-Learning git 
+Learning git
+I am Geeta Kewalramani
+
